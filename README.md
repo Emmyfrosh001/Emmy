@@ -211,7 +211,7 @@ startPm2();
 
 For a classic installation on a panel or VPS:
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://gitlab.com/zokou1/zokou-md-english.git/archive/refs/heads/main.zip)
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://gitlab.com/zokou1/zokou-md-english/-/archive/main/zokou-md-english-main.zip?ref_type=heads)
 
 ### 3. VPS Hosting
 
