@@ -19,11 +19,11 @@
 
 ## 🌟 Why Choose Zokou-MD?
 
-| Feature | Description |
-|---------|-------------|
-| 🎛️ **Multi-device** | Use the same bot on several devices simultaneously |
-| ⚡ **Performance** | Optimized response time thanks to a lightweight architecture |
-| 🧩 **Modular** | Enable/disable modules as needed |
+| Feature             | Description                                                  |
+| ------------------- | ------------------------------------------------------------ |
+| 🎛️ **Multi-device** | Use the same bot on several devices simultaneously           |
+| ⚡ **Performance**  | Optimized response time thanks to a lightweight architecture |
+| 🧩 **Modular**      | Enable/disable modules as needed                             |
 
 ---
 
@@ -230,11 +230,11 @@ npm start
 
 ### 🔑 Quick Access
 
-| Service | Link | Status |
-|---------|------|--------|
-| **Session Scan** | [https://zokou-scan.onrender.com](https://zokou-scan.onrender.com) | ![Online](https://img.shields.io/badge/Status-Online-green) |
+| Service            | Link                                                               | Status                                                      |
+| ------------------ | ------------------------------------------------------------------ | ----------------------------------------------------------- |
+| **Session Scan**   | [https://zokou-scan.onrender.com](https://zokou-scan.onrender.com) | ![Online](https://img.shields.io/badge/Status-Online-green) |
 | **Session Scan 2** | [zokouscan-din3.onrender.com](https://zokouscan-din3.onrender.com) | ![Online](https://img.shields.io/badge/Status-Online-green) |
-| **Backup Server** | [zokou-web.onrender.com](https://zokou-web.onrender.com/) | ![Online](https://img.shields.io/badge/Status-Online-green) |
+| **Backup Server**  | [zokou-web.onrender.com](https://zokou-web.onrender.com/)          | ![Online](https://img.shields.io/badge/Status-Online-green) |
 
 ### ⚙️ Minimal Configuration
 
@@ -249,15 +249,15 @@ OWNER_NUMBER="22891733300"        # Your WhatsApp number
 
 ### 🏆 Key Contributors
 
-| Member | Contribution | Link |
-|--------|--------------|------|
-| **Fatao** | GPT/DALL-E Commands • APK Modules | [GitHub](https://github.com/fatao) |
-| **CrazyPrince** | Hosting a session service | site closed |
+| Member          | Contribution                      | Link                               |
+| --------------- | --------------------------------- | ---------------------------------- |
+| **Fatao**       | GPT/DALL-E Commands • APK Modules | [GitHub](https://github.com/fatao) |
+| **CrazyPrince** | Hosting a session service         | site closed                        |
 
 ### 🌟 Special Thanks
 
-- **The Zokou community** for testing and feedback  
-- **Contributors** on GitHub ([See all](https://gitlab.com/zokou1/zokou-md-english.git/graphs/contributors))  
+- **The Zokou community** for testing and feedback
+- **Contributors** on GitHub ([See all](https://gitlab.com/zokou1/zokou-md-english.git/graphs/contributors))
 - **Beta Testers** for their patience with unstable versions 😅
 
 ### 📚 Libraries Used

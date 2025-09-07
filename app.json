@@ -1,12 +1,7 @@
 {
   "name": "Zokou-2.0",
   "description": "whatsapp bot developed by djalega++",
-  "keywords": [
-    "bot",
-    "node",
-    "baileys",
-    "whatsapp"
-  ],
+  "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
   "repository": "https://github.com/djalega8000/Zokou-2.0",
   "succes_url": "/",
@@ -124,6 +119,15 @@
       "description": "Sticker pack name",
       "required": false,
       "value": "made with ❤; Zokou-MD"
+    },
+    "DATABASE_URL": {
+      "description": "URL of a PostgreSQL database, this is optional only if you want to always preserve the bot's saved data",
+      "required": false
+    },
+    "LOG_MSG": {
+      "description": "Display WhatsApp messages in the console: yes/no",
+      "required": false,
+      "value": "yes"
     }
   },
   "formation": {
